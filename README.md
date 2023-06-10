@@ -1,2 +1,2 @@
 # tracking
-Quản lý sự thay đổi nội dung của file.  
+Lưu lại thay đổi của file  
